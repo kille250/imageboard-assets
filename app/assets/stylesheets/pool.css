@@ -1,0 +1,8 @@
+div#pool-show div ul li.mode-browse {
+  float: none !important;
+}
+
+video{   
+   max-width:100%; 
+   max-height:100vh; 
+}

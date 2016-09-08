@@ -1,0 +1,16 @@
+ul.ui-autocomplete {
+  background: white;
+  border: 1px solid #333;
+}
+ul.ui-autocomplete a {
+  color: #222;
+}
+ul.ui-autocomplete a#ui-active-menuitem{
+  color: #222;
+  background: #FFC;
+}
+
+video{   
+   max-width:100%; 
+   max-height:100vh; 
+}
